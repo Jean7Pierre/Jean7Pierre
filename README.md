@@ -48,4 +48,4 @@ Aquí tienes un vistazo rápido a mi actividad y las tecnologías que más utili
 ---
 
 ### 📫 Hablemos
-* **LinkedIn:** [Perfil publico:](www.linkedin.com/in/jean-pierre-ludeña-4b1109378)
+* **LinkedIn:** [linkedin.com/in/tu-perfil](www.linkedin.com/in/jean-pierre-ludeña-4b1109378)
