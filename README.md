@@ -41,7 +41,11 @@ Aquí puedes ver las tecnologías con las que trabajo habitualmente para crear s
 Aquí tienes un vistazo rápido a mi actividad y las tecnologías que más utilizo en mis repositorios:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jean7Pierre&theme=radial&hide_border=true" alt="Estadísticas de GitHub" height="190" />
+  <!-- Tarjeta de Actividad y Rachas -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jean7Pierre&theme=radial&hide_border=true" alt="Estadísticas de Actividad" height="195" />
+
+  <!-- Tarjeta de Porcentaje de Lenguajes Utilizados -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jean7Pierre&layout=compact&theme=radial&hide_border=true&langs_count=6&count_private=true" alt="Tecnologías más usadas" height="195" />
 </p>
 
 ---
