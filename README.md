@@ -41,11 +41,10 @@ Aquí puedes ver las tecnologías con las que trabajo habitualmente para crear s
 Aquí tienes un vistazo rápido a mi actividad y las tecnologías que más utilizo en mis repositorios:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jean7Pierre&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean7Pierre&layout=compact&theme=radial&hide_border=true&langs_count=7" alt="Tecnologías más usadas" height="190" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jean7Pierre&theme=radial&hide_border=true" alt="Estadísticas de GitHub" height="190" />
 </p>
 
 ---
 
 ### 📫 Hablemos
-* **LinkedIn:** [Jean Pierre Ludeña](https://www.linkedin.com/in/jean-pierre-lude%C3%B1a-4b1109378)
+* **LinkedIn:** <a href="https://www.linkedin.com/in/jean-pierre-lude%C3%B1a-4b1109378" target="_blank" rel="noopener noreferrer">Jean Pierre Ludeña</a>
