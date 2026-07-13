@@ -28,7 +28,7 @@ Aquí puedes ver las tecnologías con las que trabajo habitualmente para crear s
 * **Tech Stack:** React19, Vite, PNPM, TypeScript, Custom Hooks, ESlint, Tailwind CSS
 * [🔗 Código en GitHub](https://github.com/Jean7Pierre/Gesti-n-Usuarios) | [🌐 Demo en Vivo](https://gest-n-users.netlify.app/)
 
-#### 2. To-do App ⚽
+#### 2. To-do App
 * **Descripción:** Aplicación de lista de tareas (To-do MVC) construida con tecnologías de vanguardia.
 * **Reto técnico resuelto:** Implementacion de caracteristicas como Deshacer las acciones realizadas por el usuario, implementacion de reducers, uso de custom hooks para abstracción de la logica de los componentes.
 * **Tech Stack:** JavaScript (ES6+), React, Vite, Framer Motion, ESlint, Tailwind CSS
@@ -48,4 +48,4 @@ Aquí tienes un vistazo rápido a mi actividad y las tecnologías que más utili
 ---
 
 ### 📫 Hablemos
-* **LinkedIn:** [linkedin.com/in/tu-perfil](www.linkedin.com/in/jean-pierre-ludeña-4b1109378)
+* **LinkedIn:** [Jean Pierre Ludeña](https://www.linkedin.com/in/jean-pierre-lude%C3%B1a-4b1109378)
